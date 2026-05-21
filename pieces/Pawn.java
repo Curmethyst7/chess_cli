@@ -16,9 +16,8 @@ public class Pawn extends Piece{
         int diffX = toX - fromX;
         int diffY = toY - fromY;
 
-        int forwardDirection = this.isWhite ? -1 : 1;
-        int startingRow = this.isWhite ? 6 : 1; // Baris awal pion di array kamu
-
+        int forwardDirection = this.isWhite ? 1 : -1;
+        int startingRow = this.isWhite ? 2 : 7; // Baris awal pion di array kamu
         
         if (diffY == 0) { 
             if (diffX == forwardDirection) {
