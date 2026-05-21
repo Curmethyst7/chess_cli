@@ -8,7 +8,9 @@ Right now, I am still developing this project. This code only can make new board
 
 ## How to play?
 Simply just run the main.java file
-'''java main.java'''
+'''
+java main.java
+'''
 
 The notation to play is quite simple. For example if you want to move pawn to e4 simply type e2e4
 
