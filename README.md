@@ -1,4 +1,4 @@
-### CHESS CLI JAVA
+# CHESS CLI JAVA
 
 ## What is it?
 This is my project. This chess is played on terminal. 
